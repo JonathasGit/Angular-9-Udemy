@@ -12,4 +12,4 @@ Repositório do curso : <a href="https://github.com/cod3rcursos/angular-crud">Aq
 
 Certificado : Curso não gera certificado. 
 
-Situação do curso : 
+Situação do curso :  Em andamento
